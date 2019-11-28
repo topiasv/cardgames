@@ -23,7 +23,7 @@
 	"deckUrls": [{
 			"name": "Standard CastleWars Deck",
 			"url": "https://topiasv.github.io/cardgames/games/CastleWars/decks/CastleWarsStandard.txt"
-		},
+		}
 	],
 	"enums": [{
 			"property": "type",

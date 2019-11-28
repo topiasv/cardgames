@@ -1,0 +1,40 @@
+{
+	"allCardsUrl": "https://cardgames.toxip.net/games/CastleWars/AllCards.json",
+	"allSetsUrl": "https://cardgames.toxip.net/games/CastleWars/AllSets.json",
+	"autoUpdateUrl": "https://cardgames.toxip.net/games/CastleWars/CastleWars.json",
+	"bannerImageUrl": "https://cardgames.toxip.net/games/CastleWars/Banner.png",
+	"cardBackImageUrl": "https://cardgames.toxip.net/games/CastleWars/CardBack.png",
+	"cardImageUrl": "https://cardgames.toxip.net/games/CastleWars/sets/{cardSet}/{cardId}.{cardImageFileType}",
+  "cardImageFileType": "png",
+	"cardProperties": [{
+			"name": "type",
+			"display": "Type",
+			"type": "stringEnum"
+		},{
+			"name": "cost",
+			"display": "Cost",
+			"type": "integer"
+		},{
+			"name": "action",
+			"display": "Action",
+			"type": "string"
+		}
+	],
+	"deckUrls": [{
+			"name": "Standard CastleWars Deck",
+			"url": "https://cardgames.toxip.net/games/CastleWars/decks/CastleWarsStandard.txt"
+		},
+	],
+	"enums": [{
+			"property": "type",
+			"values": {
+				"build": "Build",
+				"attack": "Attack",
+				"magic": "Magic"
+			}
+		}
+	],
+	"gameStartHandCount": 8,
+	"name": "Castle Wars",
+	"rulesUrl": "http://www.kongregate.com/games/m0rkeulv/castlewars"
+}

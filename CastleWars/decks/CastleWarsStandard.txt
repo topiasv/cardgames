@@ -1,0 +1,31 @@
+### Standard Castle Wars Deck
+3 Wall
+3 Base
+3 Defence
+3 Reserve
+3 Tower
+3 School
+2 Wain
+2 Fence
+2 Fort
+2 Babylon
+3 Archer
+3 Knight
+3 Rider
+3 Platoon
+3 Recruit
+2 Attack
+2 Saboteur
+2 Thief
+2 Swat
+2 Banshee
+3 Conjure Bricks
+3 Conjure Crystals
+3 Conjure Weapons
+3 Crush Bricks
+3 Crush Crystals
+3 Crush Weapons
+3 Sorcerer
+2 Dragon
+2 Pixies
+2 Curse

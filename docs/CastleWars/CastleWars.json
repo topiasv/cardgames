@@ -1,10 +1,10 @@
 {
-	"allCardsUrl": "https://topiasv.github.io/cardgames/games/CastleWars/AllCards.json",
-	"allSetsUrl": "https://topiasv.github.io/cardgames/games/CastleWars/AllSets.json",
-	"autoUpdateUrl": "https://topiasv.github.io/cardgames/games/CastleWars/CastleWars.json",
-	"bannerImageUrl": "https://topiasv.github.io/cardgames/games/CastleWars/Banner.png",
-	"cardBackImageUrl": "https://topiasv.github.io/cardgames/games/CastleWars/CardBack.png",
-	"cardImageUrl": "https://topiasv.github.io/cardgames/games/CastleWars/sets/{cardSet}/{cardId}.{cardImageFileType}",
+	"allCardsUrl": "https://topiasv.github.io/cardgames/CastleWars/AllCards.json",
+	"allSetsUrl": "https://topiasv.github.io/cardgames/CastleWars/AllSets.json",
+	"autoUpdateUrl": "https://topiasv.github.io/cardgames/CastleWars/CastleWars.json",
+	"bannerImageUrl": "https://topiasv.github.io/cardgames/CastleWars/Banner.png",
+	"cardBackImageUrl": "https://topiasv.github.io/cardgames/CastleWars/CardBack.png",
+	"cardImageUrl": "https://topiasv.github.io/cardgames/CastleWars/sets/{cardSet}/{cardId}.{cardImageFileType}",
   "cardImageFileType": "png",
 	"cardProperties": [{
 			"name": "type",
@@ -22,7 +22,7 @@
 	],
 	"deckUrls": [{
 			"name": "Standard CastleWars Deck",
-			"url": "https://topiasv.github.io/cardgames/games/CastleWars/decks/CastleWarsStandard.txt"
+			"url": "https://topiasv.github.io/cardgames/CastleWars/decks/CastleWarsStandard.txt"
 		}
 	],
 	"enums": [{

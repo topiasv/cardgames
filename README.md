@@ -1,2 +1,2 @@
-# cardgames
-A set of cardgames for card game simulator
+# Card Games
+A collection of card games for the [card game simulator](https://www.cardgamesimulator.com/)
